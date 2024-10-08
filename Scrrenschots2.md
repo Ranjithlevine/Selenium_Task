@@ -3,5 +3,6 @@ Get Title
 Reload
 ![reload](https://github.com/user-attachments/assets/d648bc76-a52b-4ee5-a5df-2bd5e89d49c3)
 Tap on history
-![Uploading History.PNG…]()
+![History](https://github.com/user-attachments/assets/e830b550-750c-4d4f-8842-e17a5ff997dd)
+
 
