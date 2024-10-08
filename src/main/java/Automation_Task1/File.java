@@ -50,7 +50,7 @@ public class File {
         FileOutputStream file=new FileOutputStream(path);
         wf.write(file);
 
-        FileInputStream file_read=new FileInputStream(path);
+      //  FileInputStream file_read=new FileInputStream(path);
         sheet=wf.getSheetAt(0);
 
         for(int i=0;i<row;i++){
