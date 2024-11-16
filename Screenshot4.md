@@ -1,0 +1,12 @@
+Task1
+![Task-1](https://github.com/user-attachments/assets/a60cfb9a-898d-4546-9cca-84b676975533)
+![1](https://github.com/user-attachments/assets/33f45263-bfff-4ba3-984e-ad5467990444)
+![2](https://github.com/user-attachments/assets/73a8d899-00d6-4488-8d25-1a6806466554)
+Task2
+![Task-2](https://github.com/user-attachments/assets/ae7f0f48-0e61-434c-aa77-7b34e89e11a0)
+![t-1](https://github.com/user-attachments/assets/92e3ff3e-acfd-41e1-a8c0-c1f59d67447c)
+![t2](https://github.com/user-attachments/assets/c6e0f27d-7aec-4a06-86af-f51c47aa01a6)
+Task3
+![Task-3](https://github.com/user-attachments/assets/57ea4e6f-c28c-40d4-a03a-cf7560b4f8ea)
+![d1](https://github.com/user-attachments/assets/c7032042-af6d-4a64-bbe7-7214949622b2)
+![d2](https://github.com/user-attachments/assets/fb353e2a-16ac-42fa-86b8-fc1bf86d7558)
